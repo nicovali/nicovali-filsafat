@@ -1,20 +1,14 @@
 ---
-{"dg-publish":true,"dg-home":"on","permalink":"/beranda/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2024-03-23T23:12:22.702+07:00","updated":"2024-03-24T02:38:30.907+07:00"}
+{"dg-publish":true,"dg-home":"on","permalink":"/beranda/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2024-03-23T23:12:22.702+07:00","updated":"2024-03-24T02:57:45.103+07:00"}
 ---
 
 ## Dunia Filsafat
 Ini adalah tulisan pribadi saya terkait filsafat yang telah saya rangkum. Saya harap website sederhana ini dapat membantu pembaca dalam mempelajari filsafat. Saya rangkumkan artikel umum, tokoh-tokoh, dan istilah-itilah terkait filsafat dalam bentuk yang terstruktur. 
 
 
+<!--TIMELINE BEGIN tags='timeline' --><!--TIMELINE END-->
 
-```ob-timeline
-tags=timeline;figure;modern
-startDate=1500
-endDate=2000
-type=flat
-minDate=1700
-maxDate=2100
-```
+
 
 
 ```timeline-labeled 
