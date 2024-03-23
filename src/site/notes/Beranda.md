@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":"on","permalink":"/beranda/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2024-03-23T23:12:22.702+07:00","updated":"2024-03-24T03:17:06.189+07:00"}
+{"dg-publish":true,"dg-home":"on","permalink":"/beranda/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2024-03-23T23:12:22.702+07:00","updated":"2024-03-24T03:19:46.539+07:00"}
 ---
 
 ## Dunia Filsafat
@@ -7,7 +7,7 @@ Ini adalah tulisan pribadi saya terkait filsafat yang telah saya rangkum. Saya h
 
 
 <!--TIMELINE BEGIN tags='timeline;figure'-->
-<!<div xmlns="http://www.w3.org/1999/xhtml"><div class="timeline"><div class="timeline-container timeline-left"><div class="timeline-event-list" style="display: block"><div class="timeline-card blue"><article><h3><a class="internal-link" href="Biografi Tokoh/Tokoh di Abad Modern/Karl marx.md">marx</a></h3></article><p>New Event</p></div><div class="timeline-card blue"><article><h3><a class="internal-link" href="Biografi Tokoh/Tokoh di Abad Modern/Friedrich Nietzsche.md">marx</a></h3></article><p>New Event</p></div><div class="timeline-card blue"><article><h3><a class="internal-link" href="Biografi Tokoh/Tokoh di Abad Modern/Jean-Paul Sartre.md">marx</a></h3></article><p>New Event</p></div></div><h2 style="text-align: left;">1818-05-05</h2></div></div><div class="timeline-rendered">Sun Mar 24 2024 03:17:04 GMT+0700 (Western Indonesia Time)</div></div>-TIMELINE END-->
+<!<div xmlns="http://www.w3.org/1999/xhtml"><div class="timeline"><div class="timeline-container timeline-left"><div class="timeline-event-list" style="display: block"><div class="timeline-card blue"><article><h3><a class="internal-link" href="Biografi Tokoh/Tokoh di Abad Modern/Karl marx.md">Karl Marx</a></h3></article><p></p></div></div><h2 style="text-align: left;">1818-05-05</h2></div><div class="timeline-container timeline-right"><div class="timeline-event-list" style="display: block"><div class="timeline-card blue"><article><h3><a class="internal-link" href="Biografi Tokoh/Tokoh di Abad Modern/Friedrich Nietzsche.md">Friedrich Nietzsche</a></h3></article><p></p></div></div><h2 style="text-align: right;">1844-10-15</h2></div><div class="timeline-container timeline-left"><div class="timeline-event-list" style="display: block"><div class="timeline-card blue"><article><h3><a class="internal-link" href="Biografi Tokoh/Tokoh di Abad Modern/Jean-Paul Sartre.md">Jean-Paul Sartre</a></h3></article><p></p></div></div><h2 style="text-align: left;">1905-06-21</h2></div></div><div class="timeline-rendered">Sun Mar 24 2024 03:19:44 GMT+0700 (Western Indonesia Time)</div></div>-TIMELINE END-->
 
 
 
